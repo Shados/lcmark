@@ -1,5 +1,5 @@
 local cmark = require("cmark")
-local yaml = require("yaml")
+local yaml = require("lyaml")
 local lpeg = require("lpeg")
 
 local S, C, P, R, V, Ct =
