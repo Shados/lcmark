@@ -23,7 +23,7 @@ description = {
     maintainer = "John MacFarlane <jgm@berkeley.edu>",
 }
 dependencies = {
-   "lua >= 5.2",
+   "lua >= 5.1",
    "cmark >= 0.29.0",
    "lyaml >= 6.2.0",
    "lpeg >= 0.12",
